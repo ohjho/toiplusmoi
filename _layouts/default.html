@@ -10,11 +10,60 @@
 <body class="landing">
 {% include header.html %}
 {% include banner.html %}
+
+<section id="intro" class="wrapper style1 special">
+  {% include sections/intro.html %}
+</section>
+
+<!-- using the theme's way of getting all the _posts instead
+{% comment %}
+<section id="couple" class="wrapper alt style2">
+{% include sections/couple.html %}
+</section>
+{% endcomment%}
+-->
+{% include section-two.html %}
+
+<section id="travel" class="wrapper style3 special">
+  {% include sections/transportation.html %}
+</section>
+
+<section id="location" class="wrapper style2">
+  {% include sections/location.html %}
+</section>
+
+<!-- extra feature from the menzenski's site we dun need yet
+{% comment %}
+<section id="lodging" class="wrapper style2 special">
+  {% include sections/lodging.html %}
+</section>
+
+<section id="party" class="wrapper style1 special">
+  {% include sections/weddingparty.html %}
+</section>
+
+<section id="registry" class="wrapper style3 special">
+  {% include sections/registry.html %}
+</section>
+{% endcomment%}
+-->
+
+<section id="cta" class="wrapper style4">
+  {% include sections/rsvp.html %}
+</section>
+
+{% include footer.html %}
+
+<!-- Original Template setup
+{% comment %}
 {% include section-one.html %}
 {% include section-two.html %}
 {% include section-three.html %}
-{% include sections/rsvp.html %}  {% comment %} {% include cta.html %} {% endcomment %}
+{% include cta.html %}
 {% include footer.html %}
+{% endcomment %}
+-->
+
 </body>
 
 </html>
