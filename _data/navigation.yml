@@ -1,0 +1,17 @@
+- title: "Home"
+  url: "#"
+
+- title: "Intro"
+  url: "#intro"
+
+- title: "The Couple"
+  url: "#two"
+
+- title: "Location"
+  url: "#location"
+
+- title: "Gifts"
+  url: "#registry"
+
+- title: "RSVP"
+  url: "#cta"
