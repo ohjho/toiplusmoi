@@ -2,7 +2,7 @@
 layout: post
 title: Véronique et John
 description:
-image: post_30th_party.jpg
+image: post_busan.jpg
 ---
 
-Véronique Nobert, a native of Trios-Rivière, and John Ho, a Vancouverite, met in an elevator of a 3-storey Fairview apartment. They started dating in January 2011, when both of them were about to take a big turn in life. What happens next will take them half way around the world!
+Véronique Nobert, a Québécois, and John Ho, a British Columbian, met in an elevator of a 3-storey apartment in Vancouver. They started dating in January 2011, when life has some big surprises in store for them. What happens next will take them half way around the world!
