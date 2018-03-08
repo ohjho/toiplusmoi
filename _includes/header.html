@@ -23,9 +23,10 @@
 						-->
 
 							{% for inav in site.data.navigation %}
-							<li><a href="{{ inav.url | absolute_url }}">{{ inav.title }}</a></li>
+							<li><a href="{% if inav.url contains 'http://' or inav.url contains 'https://' %}{{inav.url}}{% else %}{{ inav.url | absolute_url }}{% endif %}">
+								{{ inav.title }}</a></li>
 							{% endfor %}
-							
+
 						</ul>
 					</div>
 				</li>
