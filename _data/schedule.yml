@@ -1,0 +1,27 @@
+- date: "March 30, 2018 Friday"
+  table:
+    - time: 1830hrs
+      event: "Drinks close to <a href='http://www.discoverhongkong.com/eng/dine-drink/where-to-eat/star-street.jsp'>Star Street</a> to welcome out-of-town guests. <br/><sub>All are welcome to join. <a href='https://video.vice.com/en_us/show/chefs-night-out'>Chef's night out</a> sytle.</sub>"
+
+- date: "<h1>March 31, 2018 Saturday</h1>"
+  table:
+  - time: 1400hrs
+    event: "Reception begins at <a href='https://goo.gl/maps/k7zVW91FH5S2'>Tipsy Bar & Restaurant</a>"
+  - time: 1500hrs
+    event: "<b>Wedding Ceremony</b>"
+    important: True
+  - time: 1530hrs
+    event: Photos with the new couple on the balcony
+  - time: 1700hrs
+    event: Reception ends at Tipsy Bar & Restaurant
+  - time: 1745hrs
+    event: Transport to afterparty leaves from Tai Hang
+  - time: 1830hrs
+    event: Afterparty begins
+  - time: 2100hrs
+    event: Afterparty concludes
+
+- date: "April 1, 2018 Sunday"
+  table:
+    - time: 1200hrs
+      event: "<a href='http://www.walkonhill.com/route_en.php'>Mount Butler</a> Hike and afternoon tea in Quarry Bay. <br/><sub>Meet in Tai Hang to start.</sub>"

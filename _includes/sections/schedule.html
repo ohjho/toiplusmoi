@@ -1,0 +1,28 @@
+<div class="inner">
+  <header class="major">
+    <h2>Schedule</h2>
+    <br>
+
+    {% for idate in site.data.schedule %}
+    <p> {{idate.date}}</p>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Event</th>
+          </tr>
+        </thead>
+        <tbody align="left">
+          {% for ievent in idate.table %}
+            <tr>
+              <td {% if ievent.important %} style="background-color:rgba(255,255,255,0.5);"{% endif %}>{{ievent.time}}</td>
+              <td {% if ievent.important %} style="background-color:rgba(255,255,255,0.5);"{% endif %}>{{ievent.event}}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endfor %}
+  </header>
+</div>
