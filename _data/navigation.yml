@@ -10,14 +10,14 @@
 - title: "Location"
   url: "#location"
 
-# - title: "Gifts"
-#   url: "#registry"
+- title: "Gifts"
+  url: "#registry"
 
 # - title: "RSVP"
 #   url: "#cta"
 
 - title: "Schedule"
   url: "#schedule"
-  
+
 # - title: "Blog: Samsara"
 #  url: "http://vero.et.johnho.ca/samsara"
