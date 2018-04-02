@@ -8,8 +8,8 @@ url: "" # the base hostname & protocol for your site
 #Homepage Settings
 landing_title: Véro + John
 landing_description: Tai Hang, Hong Kong <br><br> March 31, 2018
-landing_button: Details
-landing_button_url: "#schedule"
+landing_button: Photo Teaser
+landing_button_url: "http://vero.et.johnho.ca/lens_31mar18_tipsy"
 banner_image: "assets/images/banner.jpg" # the path of banner image; doesn't really work at the moment
 
 # Homepage tiles
