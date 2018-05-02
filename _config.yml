@@ -7,9 +7,12 @@ url: "" # the base hostname & protocol for your site
 
 #Homepage Settings
 landing_title: Véro + John
-landing_description: Tai Hang, Hong Kong <br><br> March 31, 2018
-landing_button: Photo Teaser
-landing_button_url: "http://vero.et.johnho.ca/lens_31mar18_tipsy"
+landing_description_th: Tai Hang, Hong Kong <br><br> March 31, 2018
+landing_description_tr: Trois-Rivières, Québec <br><br> 7 juillet 2018
+landing_button_th: Photo Teaser
+landing_button_tr: Répondez s'il vous plaît
+landing_button_url_th: "http://vero.et.johnho.ca/lens_31mar18_tipsy"
+landing_button_url_tr: "#cta"
 banner_image: "assets/images/banner.jpg" # the path of banner image; doesn't really work at the moment
 
 # Homepage tiles

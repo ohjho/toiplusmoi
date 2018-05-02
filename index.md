@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Home
-description: Wedding of Veronique and John
+description: Le mariage de Véronique et John
 ---

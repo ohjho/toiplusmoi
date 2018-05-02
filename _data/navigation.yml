@@ -7,17 +7,19 @@
 - title: "The Couple"
   url: "#two"
 
-- title: "Location"
-  url: "#location"
+# - title: "Location"
+#   url: "#location"
 
-- title: "Gifts"
-  url: "#registry"
+# - title: "Gifts"
+#   url: "#registry"
 
-# - title: "RSVP"
-#   url: "#cta"
+- title: "RSVP"
+  url: "#cta"
 
-- title: "Schedule"
-  url: "#schedule"
+# - title: "Schedule"
+#   url: "#schedule"
 
+- title: "[Past] Tai Hang Celebration 31 March 2018"
+  url: "/pages/tai_hang"
 # - title: "Blog: Samsara"
 #  url: "http://vero.et.johnho.ca/samsara"

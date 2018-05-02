@@ -1,0 +1,21 @@
+<!-- Banner -->
+<section id="banner">
+	<div class="inner">
+		<h2>{{site.landing_title}}</h2>
+		<p>{{site.landing_description_th}}</p>
+
+		{% if site.landing_button_th %}
+		<ul class="actions">
+			<li><a href="{{site.landing_button_url_th}}" class="button special">{{site.landing_button_th}}</a></li>
+		</ul>
+		{% endif %}
+	</div>
+	<a href="#intro" class="more scrolly">Read More</a>
+</section>
+
+<!-- Backstretch -->
+<!--
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js'></script>
+<script> $('#banner').backstretch("{{site.banner_image}}");</script>
+-->

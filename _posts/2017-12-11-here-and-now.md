@@ -3,6 +3,8 @@ layout: post
 title: Here and Now
 description:
 image: post_kim_wedding.jpg
+lang: en
+ref: here_and_now
 ---
 
 They are united by a sense of adventure and a love for traveling. Together they've been to over 30 destinations around the world, and found that the place they felt most like home is in each other's arms &hearts;
