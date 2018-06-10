@@ -13,6 +13,8 @@ landing_button_th: Photo Gallery
 landing_button_tr: Répondez s'il vous plaît
 landing_button_url_th: "http://vero.et.johnho.ca/gallery_tai_hang"
 landing_button_url_tr: "#cta"
+landing_button_sub: Subscribe for updates
+landing_button_sub_url: https://goo.gl/forms/ndEKLxv9MR0tNcub2
 banner_image: "assets/images/banner.jpg" # the path of banner image; doesn't really work at the moment
 
 # Homepage tiles
