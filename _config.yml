@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 #Homepage Settings
 landing_title: Véro + John
 landing_description_th: Tai Hang, Hong Kong <br><br> March 31, 2018
-landing_description_tr: Trois-Rivières, Québec <br><br> 7 juillet 2018
+landing_description_tr: Trois-Rivières, Québec <br><br><br> 7 juillet 2018
 landing_button_th: Photo Gallery
 landing_button_tr: Détails # Répondez s'il vous plaît
 landing_button_url_th: "http://vero.et.johnho.ca/gallery_tai_hang"
